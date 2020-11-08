@@ -12,8 +12,6 @@ from time import sleep
 file = open("Bee", "r")
 r = open("est","r")
 
-# add you personal list
-
 driver = webdriver.Firefox()
 driver.get("https://www.instagram.com/?hl=eg")
 
